@@ -20,6 +20,7 @@ Next, the dataset is split into training and testing sets. Machine learning mode
 
 
 📈 Project 6: Stock Price Prediction (LSTM)
+
 Description:
 This project predicts future stock prices using LSTM (Long Short-Term Memory) neural networks, a special type of Recurrent Neural Network (RNN) suited for time-series forecasting. The model is trained on historical data of a stock (e.g., Apple - AAPL) to learn past trends and make future predictions. It's a real-world application of AI in finance and investment analysis.
 
