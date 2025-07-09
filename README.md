@@ -1,5 +1,6 @@
 # RISE-internship-project-ML-AI-2025
 📨 Project 1: Email Spam Detection
+
 Description:
 The Email Spam Detection project aims to classify email messages as either spam or ham (not spam) using supervised machine learning techniques. Spam emails reduce productivity and may pose cybersecurity risks. By training a machine learning model on labeled email data, we can automate the detection process and build an intelligent filtering system.
 
@@ -10,6 +11,7 @@ A train-test split is performed to separate data into training and testing sets.
 
 
 💳 Project 3: Loan Eligibility Predictor
+
 Description:
 The Loan Eligibility Predictor project focuses on building a predictive model to determine whether a loan applicant is eligible for loan approval. Banks and financial institutions use such predictive tools to assess risk before granting loans. The project uses applicant features such as age, income, credit score, education, employment, and marital status.
 
